@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vmbobato
 - 👀 I’m currently a student at Texas A&M University, I consider myself a tech enthusiast, from electronics to cybersecurity.
       Here are a few projects that I worked or am working on!
-- 🌱 I’m currently learning several aspects of cybersecurity and their branches!
 
 <!---
 vmbobato/vmbobato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
