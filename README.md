@@ -17,15 +17,15 @@ Hi there! I'm **Vinicius (Vini) Bobato**, a Ph.D. student in Computer Engineerin
 ## 🚀 Tech Stack
 
 - **Languages**: Python, C/C++, Bash, SQL
-- **Libraries/Frameworks**: TensorFlow, PyTorch, Scikit-learn, Flask
+- **Libraries/Frameworks**: TensorFlow, PyTorch, Scikit-learn, Flask, NumPy, Pandas
 - **Tools**: Git, Docker, Metasploit, Wireshark, Scapy
-- **Platforms**: GitHub Pages, Azure, Raspberry Pi
+- **Platforms**: GitHub Pages, Raspberry Pi
 
 ---
 
 ## 📫 Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/viniciusbobato)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vmbobato)
 - 📧 Email: viniciusbobato [at] tamu.edu
 
 Thanks for visiting! Check out the repos below to see my projects in action 👇
