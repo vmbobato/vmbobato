@@ -13,15 +13,6 @@ Hi there! I'm **Vinicius (Vini) Bobato**, a Ph.D. student in Computer Engineerin
 
 ---
 
-## 📁 Project Sites
-
-| Project           | Description                                               | Link                                           |
-|-------------------|-----------------------------------------------------------|------------------------------------------------|
-| `asic-blog`       | Personal blog and research notes on AI & cybersecurity    | [Visit Site](https://vmbobato.github.io/asic-blog/) |
-| `PhishAI` (coming soon) | SaaS platform for phishing detection using AI         | [In Progress]                                  |
-| `AI Firewall`     | Smart ML-based firewall for IoT networks                  | [In Progress]                                  |
-
----
 
 ## 🚀 Tech Stack
 
