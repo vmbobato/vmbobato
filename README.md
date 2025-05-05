@@ -26,6 +26,6 @@ Hi there! I'm **Vinicius (Vini) Bobato**, a Ph.D. student in Computer Engineerin
 ## 📫 Contact
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vmbobato)
-- 📧 Email: viniciusbobato [at] tamu.edu
+- 📧 Email: vmbobato [at] tamu.edu
 
 Thanks for visiting! Check out the repos below to see my projects in action 👇
